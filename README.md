@@ -1,2 +1,2 @@
 # Baixador-de-musicas
-Um programa em python que baixa múscias do youtube através do link.
+Um programa em python que baixa múscias do ytb através do link.
